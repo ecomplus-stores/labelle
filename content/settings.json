@@ -1,23 +1,23 @@
 {
-  "store_id": 1158,
-  "name": "labelle",
   "domain": "labelle.netlify.app",
-  "short_name": "labelle",
-  "description": "",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#d098b1",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "journal",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/topo.png",
+  "name": "Labelle ",
+  "short_name": "Labelle",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/fv.png",
+  "country_code": "BR",
+  "secondary_color": "#4d4d4d",
+  "icon": "/img/uploads/10.jpg",
+  "store_id": 1158,
+  "description": "teste tests teste",
+  "large_icon": "/img/uploads/4.jpg"
 }
