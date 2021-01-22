@@ -19,6 +19,18 @@
       "type": "responsive-banner",
       "img": "/img/uploads/destaqus-pc-nv.png",
       "mobile_img": "/img/uploads/destaques-novo.png"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "img": "/img/uploads/desktop-1.jpg",
+          "start": "2021-01-22T23:03:58.454Z",
+          "end": "2021-01-22T23:04:24.077Z",
+          "mobile_img": "/img/uploads/mobile-1.jpg"
+        }
+      ]
     }
   ]
 }
