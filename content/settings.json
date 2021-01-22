@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#d098b1",
   "theme": {
-    "bootswatch": "journal",
+    "bootswatch": "darkly",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
@@ -18,6 +18,6 @@
   "secondary_color": "#4d4d4d",
   "icon": "/img/uploads/10.jpg",
   "store_id": 1158,
-  "description": "teste tests teste",
+  "description": "Papelaria personalizada para empresas, embalagens fofas, criação de identidade visual e sites.\nTudo que sua empresa preciso.. em um só lugar!! ",
   "large_icon": "/img/uploads/4.jpg"
 }
