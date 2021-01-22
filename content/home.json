@@ -7,28 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2021-01-22T22:42:19.879Z",
+          "end": "2022-01-22T22:45:00.000Z",
+          "mobile_img": "",
+          "link": "https://api.whatsapp.com/send?phone=5521994366664&text=Oii%2C%20vim%20do%20Site.%20Voc%C3%AA%20pode%20me%20ajudar%3F",
+          "img": "/img/uploads/full-banner-1.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null
     }
   ]
 }
