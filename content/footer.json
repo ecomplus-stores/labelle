@@ -24,6 +24,10 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/desenvolvido-por-labelle.png",
+      "link": "https://www.instagram.com/labelle_design/"
     }
   ],
   "payment_methods": {
@@ -36,7 +40,7 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
     "citibank": false,
     "mais": false,
