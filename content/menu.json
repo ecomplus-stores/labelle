@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "artes-digitais",
+    "brindes",
+    "papelaria-impressa",
+    "pronta-entrega",
+    "pacotes"
+  ],
   "phone_wpp": true,
   "socials": true
 }
