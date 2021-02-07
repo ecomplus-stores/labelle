@@ -17,20 +17,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/destaqus-pc-nv.png",
-      "mobile_img": "/img/uploads/destaques-novonovo.png"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/desktop-1.jpg",
-          "start": "2021-01-22T23:39:19.091Z",
-          "end": "",
-          "mobile_img": "/img/uploads/mobile-1.jpg"
-        }
-      ]
+      "img": "/img/uploads/tarja.jpg"
     }
   ]
 }
