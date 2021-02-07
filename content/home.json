@@ -7,11 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-01-22T22:42:19.879Z",
-          "end": "",
-          "mobile_img": "",
-          "link": "https://api.whatsapp.com/send?phone=5521994366664&text=Oii%2C%20vim%20do%20Site.%20Voc%C3%AA%20pode%20me%20ajudar%3F",
-          "img": "/img/uploads/full-banner-1.png"
+          "img": "/img/uploads/1-desktop.jpg",
+          "start": "2021-02-07T10:20:12.082Z",
+          "end": "2022-02-07T10:20:00.000Z",
+          "mobile_img": "/img/uploads/1-mobile.jpg",
+          "link": "https://wa.me/message/GGD4S6YHJ55RH1"
         }
       ]
     },
