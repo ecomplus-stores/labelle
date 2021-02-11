@@ -31,7 +31,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/queridinhos.png"
+      "img": "/img/uploads/queridinhos.png",
+      "mobile_img": "/img/uploads/queridinhos-mobile.png"
     }
   ]
 }
