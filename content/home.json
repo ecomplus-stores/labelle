@@ -12,6 +12,10 @@
           "img": "/img/uploads/banner-principal-desktop-72dpi-1920px.png"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja-72dpi-1600p.png"
     }
   ]
 }
