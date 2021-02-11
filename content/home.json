@@ -30,8 +30,8 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "![](/img/uploads/destaqus-pc.png)"
+      "type": "responsive-banner",
+      "img": "/img/uploads/queridinhos.png"
     }
   ]
 }
