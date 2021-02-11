@@ -19,6 +19,17 @@
       "img": "/img/uploads/tarja-72dpi-1600p.png"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mini-identidade-visual-menor.png"
+        },
+        {
+          "img": "/img/uploads/mini-criacao-de-sites-menor.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/queridinhos.png",
       "mobile_img": "/img/uploads/queridinhos-mobile.png"
