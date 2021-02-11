@@ -28,6 +28,11 @@
           "img": "/img/uploads/mini-criacao-de-sites.png"
         }
       ]
+    },
+    {
+      "type": "page-title",
+      "description": "",
+      "title": "Destaques"
     }
   ]
 }
