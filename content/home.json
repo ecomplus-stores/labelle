@@ -1,5 +1,17 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-02-11T06:19:19.438Z",
+          "end": "",
+          "img": "/img/uploads/banner-principal-desktop-72dpi-1920px.png"
+        }
+      ]
+    }
+  ]
 }
