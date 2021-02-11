@@ -30,9 +30,8 @@
       ]
     },
     {
-      "type": "page-title",
-      "description": "",
-      "title": "Destaques"
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/destaqus-pc.png)"
     }
   ]
 }
