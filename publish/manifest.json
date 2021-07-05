@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c6c71be72012c7c66bc8d5c1ed9a121f.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.4b63ec1bf9878df24bb0f7e22a094f5e.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.14e5850cb82315c9e438c87d5a012ce6.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.8d58f45ae25889046d92f86c547c7ad3.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.f332e99966307338f4b18fe3e1cca8c6.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Labelle Design",
+  "short_name": "Labelle",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Papelaria personalizada para empresas, embalagens fofas, criação de identidade visual e sites.\nTudo que sua empresa preciso.. em um só lugar!! ",
+  "background_color": "#ffffff",
+  "theme_color": "#d098b1"
+}
